@@ -1,0 +1,44 @@
+.burgerOffcanva {
+    font: pink;
+    font-size: large;
+}
+.afterNavbar {
+    height: 83vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #c02010;
+}
+.styleLink {
+    color: #1d3969 !important;
+}
+.styleMenu {
+    height: 100vh;
+    background-color: #102040;
+}
+.styleProductos1 {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    border-width: 5px;
+    background-position: center;
+    background-size: 500px;
+    background-repeat: no-repeat;
+}
+.styleProductos2 {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    border-width: 5px;
+    background-position: center;
+    background-size: 600px;
+    background-repeat: no-repeat;
+}
+.styleProductos3 {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    border-width: 5px;
+    background-position: center;
+    background-size: 700px;
+    background-repeat: no-repeat;
+}
